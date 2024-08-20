@@ -29,3 +29,14 @@ Responsablidades de provedores de aplicação (empresas que são donas dos progr
 marco civil da internet e art. 19 (plataforma não é responsável pelo que está sendo publicado e sim quem faz a postagem) 
 Tema 987 e 533 STF 
 As empresas provedoras devem sim ser responsabilizadas pelo que é publicado em suas aplicações, já que precisam ter mecanismos e políticas internas do que pode ou n ser compartilhado de modo a inibir seus usuários, que tb serão punidos. 
+Formato word vs. ODF (open document format) 
+primeira versao do word foi em 1986 e convivia com outros editores como wordperfect, carta certa etc - a partit da dec de 90 ele dominou o mercado pelas estrtegias de monopolio da microsoft e pela sua qualidade. Era formato proprietário DOC - arquivo binário - formato mt poderoso 
+Tb nos anos 90 surge o movimento do software livre - no inicio da computação o software ja vinha com o computador pq ele era mt caro e n fazia diferença o valor, mas cf o pc foi barateando os softwares começaram a ser cobrados - o movimento começou a discutir a eticidade dessa prática - novos editores começaram a surgir com formato aberto
+em 2006, o ODF cria o ODT (OPEN DOCUMENT TEXT) padrão ISO/IEC para todos usarem - o ODF tem o ODS(SPREEDSHEET) 
+Microsoft lança então como um contragolpe o formato DOCX - padrão ISO aberto e a microsoft começa a dar "suporte" ao ODT - Possível abrir o ODT no software da microsoft. 
+ODT E DOCX ALEM DE SEREM FORMATOS ABERTOS SAO FORMATOS DE TEXTO 
+Formato doc: proprietário; binário; esforço da concorrencia para 
+Formato ODT: alternativa ao doc - arquivo XML dentro de um ZIP; Arquivo container que guarda arquivos referenciados; pode ser usado em diversos softwares ex. MS Word, LibreOffice; OpenOffice; formato aberto padrão ISO.
+DOCX: padraão iso; ECMA; mantem a hegemonia da microsoft; XML dentro de Zip
+XML - Extensible Markup Language - n pode realiaze operações por conta própria
+Sigla VS ACRONIMO - CPF = SIGLA lê letra por letra; IBAMA - Acronimo - ler como palabra
