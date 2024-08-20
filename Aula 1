@@ -15,3 +15,17 @@ Variável - buscar
 Rede neural artificial - aprendizado de máquina - modelos são ensinados ao computador, por meio de algoritmos/arquiterura os quais serão utilizados para treinar o computador. modelo é o resultado de um treinamento de uma arquitetura. 
 Binomios sao formados, sao modelos, para formar resultados específicos. 
 É preciso que esses aparelhos sejam utilizados como apoio para decisão, não ser a responsavel sozinha - accountable
+Sistema de arquivos - forma de organizar arquvios no computador- organizado de forma hierárquica em diretórios (pastas) podendo navegar entre os existentes. 
+Data center - instalações físicas e/ou virtuais que armazena, gerencia grandes fluxos de dados. 
+Tanto o operador (dona do data center) e o gestor dos dados precisam seguir os parametros legais estabelecidos na lgpd que tb regula os dados que serão enviadas para data centers fora do brasil. 
+formato de arquivo de dados: como as infos sao codificados/organizadas para armazenamento e recuperação em um computador - arquivo de computador (conjunto de dados que serao armazenados). 
+Regras de Jpeg., MP3. 
+Formato proprietário: controlados por empresas e podem ter seu acesso limitado e não tem suas regras de formação amplamente divulgados. o padrão não é acessível para todos, pois a empresa determina quem pode ou não usar. Ser ou n divulgado nao faz tanta diferenças, pois ainda que não haja autorização da empresa, é possível que seja feita uma engenharia reversa que seria uma pirataria, mas é ilegal pq não é possível utilizar sem autorização. 
+EX. Microsoft
+Abertos - seguem padroes publicos e podem ser usados por qualquer sistema - software aberto ou proprietário - .png - 
+Carta certa - editor de textos - colocava acentos - a empresa foi comprada pela itau tec - marinha do brasil usou carta certa e salvou docs históricos - alguns anos depois qdo a marinha quis ler esses docs não foi possível e entrou em contato com o itautec que por sua vez tb n soube como acessar, mas tb n tinham mais interesse em buscar e permitiu que a Marinha desse essa tarefa para o lab da UFRJ os quais fizeram engenharia reversa e salvaram os documentos em .rtf - formato aberto
+Dados públicos - cf a LGPD - aqueles provenientes da ação estatal sem restrição de confidencialidade - existem orientações do TCU etc de como podem divulgar esses dados. Logo os dados publicos devem ser disponibilizados preferencialmente em dados de formato abertos. No Brasil não acontece sempre assim, pq muitos nao têm interesse de que essas informações sejam de fato divulgados, além de interesse comercial já que os softwares proprietários geram muito dinheiro. 
+Responsablidades de provedores de aplicação (empresas que são donas dos programas que rodam na internet - apps - ig, fb etc - ex. meta etc. existe outro provedor que é o provedor de acesso são os que fornecem o acesso a internet ex. oi)
+marco civil da internet e art. 19 (plataforma não é responsável pelo que está sendo publicado e sim quem faz a postagem) 
+Tema 987 e 533 STF 
+As empresas provedoras devem sim ser responsabilizadas pelo que é publicado em suas aplicações, já que precisam ter mecanismos e políticas internas do que pode ou n ser compartilhado de modo a inibir seus usuários, que tb serão punidos. 
