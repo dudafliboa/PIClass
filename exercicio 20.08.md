@@ -17,3 +17,7 @@ Ruby
 Java
 ![image](https://github.com/user-attachments/assets/b9a43765-c2f2-447c-b5de-3abe5df5c6e7)
 
+
+
+
+Javascript - script é sinônimo de um programa simples
