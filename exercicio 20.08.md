@@ -16,4 +16,5 @@ Ruby
 ![image](https://github.com/user-attachments/assets/c26ac3bf-b6c3-4751-a917-75ccedf01e9e)
 
 Java
-![image](https://github.com/user-attachments/assets/455a58e2-4deb-4983-b0b8-c5598f82270e)
+![image](https://github.com/user-attachments/assets/b9a43765-c2f2-447c-b5de-3abe5df5c6e7)
+
