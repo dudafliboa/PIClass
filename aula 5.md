@@ -6,3 +6,7 @@
 
 
 
+def bubbleSort (cartas):
+
+entre parentes é variável
+range 
