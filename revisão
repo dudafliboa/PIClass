@@ -1,0 +1,59 @@
+Questões de revisão
+
+1. direito por ser a área que regula as atividades humanas e as relaçoes humanas são permeadas pela tecnologia, é importante conhecer a tecnologia e regula´-la, de modo que está presente de modo ubíquo. 
+
+2 - A) Algoritmos - conjunto de passos finito para reslver um problema ou realizar uma tarefa
+
+b) nuvem - armazenamento e processamento de dados - camada de abstração sobre um conjunto de hardware - é posspivel contratar serviços de empresas que prestam o serviço de fornecimento de armazenamento em nuvem  
+
+c) Servidor - sistema (programa de computador) ou dispositivo (computador) que fornece serviços para outros
+
+d) neutralidade da rede - principio que garante que todos os dados devem ser taratadis de forma igualitária, impedindo que servidor de serviço cobre diferenciado. 
+
+e) arquivo - conjunto de dados arquivados que descrevem uma informação
+
+3- Nós olhamos de forma diferentes para cada esfera que envolve a computação, varia o nível de abstração, podendo ir do mais concreto para o mais abstrato. 
+
+4- Foram inventados para automatizar, simplificar, calcular elmentos. Realizar raefas repetitivas
+
+5 - 
+
+6- 
+
+7 - formato proprietário de arquivo - controlado por uma empresa um organização, já os abertos podem podem ser acessados livremente - a publicidade da especificação do formato - se ele é aberto sua publicação é aberta, qdo é privado é preciso de um licenciamento. Em geral, msm que seka aberto existe um registro e quem o controla não paga por isso
+
+8- protocolo de comunicaão aberto incentiva o desenvolvimento e contribuição por outros usuários, facilita o desenvolvimento de novas aplicações, já o protocolo proprietário estimula o desenvolvimento de novas aolicações pois pode ser remunerado por isso. 
+
+9 - sistema operacional - a) interface entre o hardware e o b) software - windows, ios, linux
+c) STJ entende que não é venda casada por ser serviço essencial ao funcionamento, porém é uma discussão, já que poucos modelos de computador podem ser vendidos sem o seu sistema operacional. Na Europa teve uma ação contra o IOS que hoje em dia ele é gratuito, mas só roda no MAC.
+
+10-a) sim, se os dados forem coletdos no brasil estão sob a égide da LGPD
+B) servidores de aplicação = empresas donas de apps
+1- Em muitos contextos, as empresas não agem qdo possuem, 
+
+11- a) for e while
+b)indentação - 
+c) concatenação de textos com todos os caracteres
+d) função é um bloco de códigos que podem ser reutilizados
+e) def(nome) que possui parâmetros
+f) if / if-elif/ if elif-else
+if idade > 18: 
+print (menor de idade)
+
+if-else
+  if idade > 18: 
+print (menor de idade)
+  else 
+print (menor de idade)
+  
+if elif-else 
+if idade > 18: 
+print (menor de idade)
+elif <60
+print (adulto)
+else 
+  print (idoso)
+
+
+
+
